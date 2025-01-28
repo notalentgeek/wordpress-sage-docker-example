@@ -1,10 +1,10 @@
-# WordPress Development with Docker
+# WordPress Development With Docker
 
 This repository contains tools and configurations to set up and manage WordPress projects using Docker. Below are frequently used commands categorized and explained to help streamline development.
 
 ## Table of Contents
 
-- [WordPress Development with Docker](#wordpress-development-with-docker)
+- [WordPress Development With Docker](#wordpress-development-with-docker)
   - [Table of Contents](#table-of-contents)
   - [Build and Run Docker Image](#build-and-run-docker-image)
     - [Build WordPress Image](#build-wordpress-image)
