@@ -1,0 +1,35 @@
+# Build outputs
+build/
+dist/
+
+# Docker-specific files
+.dockerignore
+
+# Editor and OS-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Local development directories
+*_data
+
+# Node.js modules (if applicable)
+node_modules/
+
+# Sensitive environment files
+.env
+.env.*
+
+# Temporary files
+*.log
+*.swp
+*.tmp
+*.zip
+
+# WordPress-related folders
+wordpress/
+db_data/
+wordpress_data/
